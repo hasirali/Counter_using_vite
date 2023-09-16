@@ -17,7 +17,7 @@ function App() {
     // or
     if(counter<=0){
       setCounter(counter)
-      alert("you have reached zero my boii")
+      alert("you have reached zero my boyy")
     }
     else{
       setCounter(counter-1)
@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-    <h1>Understanding Hooks</h1>
+    <h1>Understanding Hooks!!!</h1>
     <h2>Counter value:{counter}</h2>
     <button onClick={addValue}>Add Value</button>
     <button onClick={subtractValue}>subtract Value</button>
